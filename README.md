@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiterose12)](https://solved.ac/whiterose12)
+
+# 스펙
+- 백준 골드 4(2023.07.05~)
+- 2023년도 한국통신학회 하계종합학술발표회 우수상(공저자)
+
+# 프로젝트
+- 계정 지갑 프로젝트
