@@ -83,12 +83,3 @@
 |TOPCIT|2023.10.28|233점|
  
 </div>
-
-
-
-<h3 align="center"> 💟 SNS Follow Me 💟 </h3>
-<p align="center">
-<a href="https://taesan-smj.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link="https://taesan-smj.tistory.com/"></a>
-<a href="https://www.instagram.com/karthera19/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/karthera19/"/></a>&nbsp
-<a href="mailto:20201738@edu.hanbat.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dai97057@gmail.com"/></a>
-</p>
