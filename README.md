@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=capsule%20Seo_MinJaer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=%20Seo_MinJae&fontSize=90)
 
 
 
