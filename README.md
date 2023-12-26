@@ -1,13 +1,12 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=slice&color=A52A2A&height=200&section=header&text=성밍쟁%20깃허브&fontSize=60&fontColor=FACD87&rotate=15&fontAlign=70" />	
+	<img src="https://capsule-render.vercel.app/api?type=slice&color=FFC0CB"&height=300&section=header&text=성밍쟁%20깃허브&fontSize=60&fontColor=FACD87&rotate=15&fontAlign=70" />	
 </div>
 
 <h3 align="center"> 🐰 Tech Stack🐰 </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Express&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Express&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/MATLAB-557C94?style=flat&logo=Java&logoColor=white"/>&nbsp
 </p>
 
 <br>
