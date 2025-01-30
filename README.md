@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Express&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MATLAB-557C94?style=flat&logo=Java&logoColor=white"/>&nbsp
+	<p>스프링, 도커</p>
 </p>
 <br>
 
@@ -65,6 +66,7 @@
 |knockOn 부트캠프| 2024.11.1 ~ | 웹 모의해킹 트랙|진행중|
 |국립한밭대학교 컴퓨터공학과 41대 학생회 binary|2024.12 ~|컴퓨터공학과 41대 학생회 부학생회장|부학생회장|
 |ICIS LAB.|2024.12 ~ | 국립한밭대학교 ICIS 랩장|지도교수 : 김태훈P|
+|SW 네트워크 및 정보보안 특강| 2025.01.20 ~ 2025.01.24| TA | SW중심사업단|
 
 
 # 🐰  Small Activity 
@@ -118,6 +120,7 @@
 |코드링|2024.10.01~2024.11.30|컴공 사람들을 위한 검색 엔진 개발|
 |Cyber War|2024.09.04~2024.12.17|유니티 활용 게임 개발|
 |오징어게임_코스페이스|2024.09.04~2024.12.17|코스페이스 활용 AR/VR 게임 개발|
+|php 웹 사이트 제작 및 취약점 분석 & 보고서 | 2024.11.01 ~ 2024.02.05 | knockon 웹 모의해킹 트랙 |
 
 
 	
@@ -129,5 +132,7 @@
 |TOPCIT|2023.10.28|233점|
 |TOPCIT|2024.05|360점|
 |TOPCIT|2024.10.12|285점|
+|정보처리기사 | 2025 | 예정 | 
+|정보보안기사 | 2025 | 예정|
  
 </div>
