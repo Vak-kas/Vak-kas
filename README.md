@@ -1,6 +1,7 @@
-<img width="595" height="842" alt="image" src="https://github.com/user-attachments/assets/4c4931eb-35d9-4b88-9fec-e63f6b8346c3" /><div align=center>
+<div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=Shark&color=FFC0CB"&height=300&section=header&text=성밍쟁%20깃허브&fontSize=60&fontColor=FACD87&rotate=15&fontAlign=70" />	
 </div>
+
 
 
 <h3 align="center"> 🐰 Tech Stack 🐰 </h3>
