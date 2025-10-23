@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Express&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MATLAB-557C94?style=flat&logo=Java&logoColor=white"/>&nbsp
-	<p>스프링, 도커</p>
 </p>
 <br>
 
