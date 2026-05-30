@@ -29,8 +29,7 @@
 </p>
 
 <div align=center>
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vak-kas&show_icons=true&theme=onedark)
+
 	
 </div>
 <br>
@@ -39,7 +38,6 @@
 
 <div align="center">	
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vak-kas&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiterose12)](https://solved.ac/whiterose12/)
 
 </div>
