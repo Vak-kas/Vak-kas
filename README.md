@@ -2,7 +2,11 @@
 	<img src="https://capsule-render.vercel.app/api?type=Shark&color=FFC0CB"&height=300&section=header&text=성밍쟁%20깃허브&fontSize=60&fontColor=FACD87&rotate=15&fontAlign=70" />	
 </div>
 
-
+<p align="center">
+  <a href="https://your-gallery-link.com/">
+    <img src="https://img.shields.io/badge/서민재%20갤러리-FFB6C1?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
 
 <h3 align="center"> 🐰 Tech Stack 🐰 </h3>
 <p align="center">
