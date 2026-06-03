@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://your-gallery-link.com/">
+  <a href="https://smjgallery.kr/">
     <img src="https://img.shields.io/badge/서민재%20갤러리-FFB6C1?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
